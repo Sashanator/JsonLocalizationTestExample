@@ -1,0 +1,4 @@
+{
+  "RequiredField": "The property '{0}' cannot be empty or null.",
+  "NugetResource": "Test message from Nuget package"
+}
